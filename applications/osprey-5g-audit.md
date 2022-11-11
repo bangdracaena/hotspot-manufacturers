@@ -124,7 +124,7 @@ Yes
 
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 
-<img src="https://files.seeedstudio.com/products/SenseCAP/SenseCAP M3.jpg" width="50%">
+<img src="https://files.seeedstudio.com/products/osprey/osprey.jpg" width="50%">
 
 Osprey Electronics 5G Hotspot G1
 
