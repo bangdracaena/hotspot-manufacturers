@@ -108,7 +108,7 @@ FCC
 Yes
 * Encrypted/locked-down firmware. Yes or No?  
 
-Yes
+No
 
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? 
 
@@ -116,7 +116,7 @@ Yes
 
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
 
-N/A
+Yes
 
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
@@ -132,7 +132,8 @@ Osprey Electronics 5G Hotspot G1 is a Helium 5G gateway. It works with Small Cel
 
 * What are your plans for software setup and configuration for the devices?
 
-SenseCAP MX Team has developed the SenseCAP Hotspot App which was launched in April 2022. It could operate as the software setup and configuration app. It also includes remote updates and the ability for hosts to change wifi settings.
+Ingenious Technology development team will develop a mobile app and webUui for seting up and configurations.
+
 
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
 
