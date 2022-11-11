@@ -10,7 +10,7 @@ Ingenious Technology is created in 2021 for Block Chain product development, and
 Ingenious Technology LLC
 
 * How long has the company been in business? 
-Since 2018.
+ We are in Crypto Mining business since 2018. Ingenious Technology LLC is a special entity for Helium Gateway Business to separate business risk.
 
 * What kind of products have you created? (list specific products, include links if possible)
 
@@ -19,10 +19,11 @@ ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200)
 ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50)
 E300 Ethereum Mining product (https://www.ospreyelectronics.io/product-page/e300-180m-eth-hash-rate)
 Osprey Hotspot G1 (https://www.ospreyelectronics.io/product-page/osprey-hotpot-g1-us-europe-china)
+Computer cooling products (https://www.dracaena.io/)
 
 * How many have you sold? 
 
-We sold about 1k ECU200, 8k ECU50, and estimate 7k ECU800 by end of this year.
+We sold about 1k ECU200, 8k ECU50, and estimate 1k E300 miners. We also sold about 1M dollar computer cooling products.
 
 * What brought you to the Helium Network? 
 
