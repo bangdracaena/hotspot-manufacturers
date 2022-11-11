@@ -98,7 +98,7 @@ FCC
  We plan to provide 1 year warranty to our product
  
 * How are you planning to handle repairs and replacements? 
-* 
+
  . We will stock products in US and Germany for replacement. Products will be repaired in Shenzhen China.
 
 ## Hardware Security Element (required)
@@ -144,7 +144,7 @@ SX1302
 
 * What is the CPU? 
 
-Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
+Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
 
 * Additional Hardware Specifications: 
 
@@ -152,15 +152,14 @@ Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
 
 |   Hardware   |   Description  | 
 |  -  | -----------------  | 
-| CPU  | Intel® Celeron® J4125, Quad-Core 2.0-2.7GHz |
-| RAM  | LPDDR4 8G |
+| CPU  | Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz |
+| RAM  | LPDDR4 4G |
 | Storage  | 64GB SSD |
-| LoRa Gateway Chip  | Semtech SX1302/1303 LoRa concentrator chip |
+| LoRa Gateway Chip  | Semtech SX1302 LoRa concentrator chip |
 | LoRa Frequency Band  | US915 |
-| LoRa Antenna Gain  | 3dBi |
-| Ethernet  | 2* Gigabit Ethernet Port(10/100/1000/2500M) |
-| LoRaWAN Protocol | Supports Class A, C |
-| Security Chip  | TPM2.0 |
+| LoRa Antenna Gain  | 1.2dBi |
+| Ethernet  | 1* Gigabit Ethernet Port(10/100/1000/M) |
+| Security Chip  | ECC608 |
 | Certification  | FCC |
 | Input Voltage  | DC Jack input 12-19V DC |
 
@@ -176,11 +175,10 @@ Yes
 
 * How many gateways have you previously built? 
 
-200k+
+5K
 
 * If you have not built gateways before, are you using a third party manufacturer or working with a partner? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 
-Seeed has own manufacture factory and mature supply chain.
 
 * Where are you sourcing your components from? 
 
