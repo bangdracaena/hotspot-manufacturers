@@ -41,11 +41,11 @@ Osprey Electronics 5G Hotspot G1
 
 * Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately.)
 
-Osprey Electronics 5G Hotspot G1 is Outdoor Hotspot
+Osprey Electronics 5G Hotspot is Outdoor Hotspot
 
 * Provide a brief description of the product:
 
-Osprey Electronics 5G Hotspot G1 is a Helium 5G Hotstpot. It is the latest Hotspot device in the Osprey product line contributing to cellular applications. It works with Small Cell to provide users with LTE or 5G coverage. It integrates a SX1302 LoRaWAN module and a dedicated ECC608 module, which enable the gateway to do PoC activities and mine HNT and MOBILE tokens at the same time. 
+Osprey Electronics 5G Hotspot is a Helium 5G Hotstpot. It is the latest Hotspot device in the Osprey product line contributing to cellular applications. It works with Small Cell to provide users with LTE or 5G coverage. It integrates a SX1302 LoRaWAN module and a dedicated ECC608 module, which enable the gateway to do PoC activities and mine HNT and MOBILE tokens at the same time. 
 
 * What is your approximate price point? 
 
@@ -74,7 +74,7 @@ Computer cooling products (https://www.dracaena.io/)
 
 * Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
 
-FCC, CE, SRRC.
+US (FCC), Europe(CE), China(SRRC).
 
 * If you are a startup, are you partnering with another company? What experience does your team have?
 N/A
@@ -99,7 +99,7 @@ FCC
  
 * How are you planning to handle repairs and replacements? 
 
- . We will stock products in US and Germany for replacement. Products will be repaired in Shenzhen China.
+ . We will stock products in US for replacement. Products will be repaired in Shenzhen China.
 
 ## Hardware Security Element (required)
 
@@ -126,9 +126,9 @@ Yes
 
 ![Screenshot](osprey_5g.jpg)
 
-Osprey Electronics 5G Hotspot G1
+Osprey Electronics 5G Hotspot
 
-Osprey Electronics 5G Hotspot G1 is a Helium 5G gateway. It works with Small Cell to provide users with LTE or 5G coverage. It integrates a SX1302 LoRaWAN module and a dedicated ECC608 module, which enable the gateway to do PoC activities and mine HNT and MOBILE tokens at the same time. 
+Osprey Electronics 5G Hotspot is a Helium 5G gateway. It works with Small Cell to provide users with LTE or 5G coverage. It integrates a SX1302 LoRaWAN module and a dedicated ECC608 module, which enable the gateway to do PoC activities and mine HNT and MOBILE tokens at the same time. 
 
 * What are your plans for software setup and configuration for the devices?
 
