@@ -149,11 +149,8 @@ Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
 
 * Additional Hardware Specifications: 
 
-### SenseCAP M3 LoRaWAN Indoor Gateway Datasheet
-
 |   Hardware   |   Description  | 
 |  -  | -----------------  | 
-| CPU  | Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz |
 | RAM  | LPDDR4 4G |
 | Storage  | 64GB SSD |
 | LoRa Gateway Chip  | Semtech SX1302 LoRa concentrator chip |
