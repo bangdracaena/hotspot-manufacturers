@@ -1,7 +1,7 @@
 ## Ingenious Technology LLC
 
 ## Summary:
-Ingenious Technology is created in 2021 for Block Chain product development, and we intend to build Helium 5G hotspot. We founded Enigma Micro in 2018 for crypto mining hardware business, and Dracaena Technology in 2020 for crypto Mining Software business. Business is selling products at website www.ospreyelectronics.io and https://www.dracaena.io/.
+Ingenious Technology is created in 2021 for Block Chain product development, and we intend to build Helium 5G hotspot. We founded Enigma Micro in 2018 for crypto mining hardware business, and Dracaena Technology in 2020 for crypto Mining Software business. Business is selling products at website www.ospreyelectronics.io and www.dracaena.io.
 
 ## Company Information (required)
 
