@@ -1,34 +1,32 @@
-## Seeed Studio
+## Ingenious Technology LLC
 
 ## Summary:
-Seeed had launched a full hotspot SenseCAP M1 LoRaWAN Indoor Hotspot in July 2021. Thanks to all the voices from the community, after we applied for our light hotspot M2, now we are going to build our new 5G hotspot - SenseCAP M3 5G Hotspot. Seeed has been working on the Internet of Things for years and has mature equipment production and maintenance capability. With extensive experience in developing LoRa devices from Seeed, we are glad to introduce SenseCAP M3 5G Hotspot to the Helium community.
-
-Can't wait to share more. 
+Ingenious Technology is created in 2021 for Block Chain product development, and we intend to build Helium full gateway. We founded Enigma Micro in 2018 for crypto mining hardware business, and Dracaena Technology in 2020 for crypto Mining Software business. Business is selling products at website www.ospreyelectronics.io. For Helium product, we will create a new website and brand to sell.
 
 ## Company Information (required)
 
 * What is the company name? 
 
-Seeed Technology Co.,Ltd.
+Ingenious Technology LLC
 
 * How long has the company been in business? 
-
-Since 2008.
+Since 2018.
 
 * What kind of products have you created? (list specific products, include links if possible)
 
-Seeed is a hardware-focused technology company serving global developers and system integrators with best-in-class IoT hardware products and turn-key services. 
-Seeed had launched a full hotspot [SenseCAP M1 LoRaWAN Indoor Gateway](https://www.seeedstudio.com/SenseCAP-M1-LoRaWAN-Indoor-Gateway-US915-p-5023.html) in July 2021, and [SenseCAP M2 Data Only LoRaWAN Indoor Gateway](https://www.seeedstudio.com/SenseCAP-M2-Data-Only-LoRaWAN-Indoor-Gateway-SX1302-US915-p-5342.html) in 2022. 
-Seeed has launched many nodes that support Helium network: [https://www.seeedstudio.com/LoRaWAN-Device-c-1920.html](https://www.seeedstudio.com/LoRaWAN-Device-c-1920.html)
+Crypto Mining Product:
+ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200)
+ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50)
+E300 Ethereum Mining product (https://www.ospreyelectronics.io/product-page/e300-180m-eth-hash-rate)
+Osprey Hotspot G1 (https://www.ospreyelectronics.io/product-page/osprey-hotpot-g1-us-europe-china)
 
 * How many have you sold? 
 
-Seeed has 1k+ products being distributed by 200+ distributors across 150+ countries and regions to serve more than a million customers.For the past few years, we sold millions of products to customers worldwide.
-From July 2021, We have been shipped 200K+ Helium hotspots to the community.
+We sold about 1k ECU200, 8k ECU50, and estimate 7k ECU800 by end of this year.
 
 * What brought you to the Helium Network? 
 
-Seeed is a hardware-focused technology company serving global developers and system integrators with best-in-class IoT hardware products and turn-key services. Seeed has been working on the Internet of Things for years and has mature equipment production and maintenance capability. Helium network is one of the biggest IoT network in the world and have increasing demands for the IoT devices. We have confident that we could serve the community with high quality IoT products and help together to build the network to the next stage.
+We are impressed by Helium concept and it’s business future.
 
 ## Product Information (required)
 * Will this product be sold under the company name, or a different brand name?
