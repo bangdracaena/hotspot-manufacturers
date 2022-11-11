@@ -124,7 +124,7 @@ Yes
 
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 
-![Screenshot](osprey_5g.jpg)
+![Screenshot](ospreye_5g.jpg)
 
 Osprey Electronics 5G Hotspot
 
