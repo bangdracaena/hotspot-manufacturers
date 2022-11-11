@@ -70,11 +70,11 @@ Computer cooling products (https://www.dracaena.io/)
 
 * What types of products have you shipped?
 
-IoT hardware including: Gateways, sensors, antennas, accessories, etc.
+ Mining machines, FPGA cards, Computer cooling, accessories, etc.
 
 * Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
 
-FCC, CE, TELEC, UKCA, RCM, etc.
+FCC, CE, SRRC.
 
 * If you are a startup, are you partnering with another company? What experience does your team have?
 N/A
@@ -83,28 +83,29 @@ N/A
 FCC
 
 ## Customer Support (required)
-* How will your customers be able to contact you for support for this products? 
+  Client will be able to reach us through telephone, online store chat, email, and discord. Most of our clients uses discord to contact us.
 
-To better communicate with our customers and solve issues in a timely manner, we have developed a Help Center supported by a tech support team with colleagues from different time zones. If you encounter any product-related issue, you are welcome to create a tech support ticket on SenseCAP Help Center.
-We also have SenseCAP MX Official Discord Server for community to discuss any product related information and issue: https://discord.com/invite/SENSECAP
-All the related product information can be found via SenseCAP MX Official website: www.sensecapmx.com and documentation can be on our Doc Center: https://www.sensecapmx.com/docs 
-Customers could also drop a mail to support@sensecapmx.com when encountering product issue or tech support is needed.
+  Discord channel: https://discord.gg/FnhSy5mqEf
+  
+  Twitter : https://twitter.com/OspreyElectron
+  
+  Telephone support number: +1 (925) 558-0308
+  
+  Email support address: notifications@ospreyelectronics.io
 
 * How long will the company provide customer support? 
 
-SenseCAP products are all enjoying one year warranty it there are product defects.
-
+ We plan to provide 1 year warranty to our product
+ 
 * How are you planning to handle repairs and replacements? 
-
-SenseCAP products are all enjoying one year warranty it there are product defects. Customers could apply for repairs and replacements when product defect has been detected.
-
+* 
+ . We will stock products in US and Germany for replacement. Products will be repaired in Shenzhen China.
 
 ## Hardware Security Element (required)
 
 * Are you using an ECC608. Yes or No? 
 
-No, we use TPM2.0
-
+Yes
 * Encrypted/locked-down firmware. Yes or No?  
 
 Yes
@@ -125,7 +126,7 @@ Yes
 
 <img src="https://files.seeedstudio.com/products/SenseCAP/SenseCAP M3.jpg" width="50%">
 
-SenseCAP M3 5G Gateway
+Osprey Electronics 5G Hotspot G1
 
 SenseCAP M3 is a Helium 5G gateway. It works with Small Cell to provide users with LTE or 5G coverage. It integrates a WM1302 LoRaWAN module and a dedicated TPM2.0 module, which enable the gateway to do PoC activities and mine IOT and MOBILE tokens at the same time.
 
