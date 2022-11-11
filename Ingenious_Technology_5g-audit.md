@@ -196,23 +196,23 @@ Submitted and verified by DeWi.
 
 * How many Hotspots are you planning to manufacture and sell within the first six months of sales? 
 
-10K~30K
+3K~5K
 
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
 
-10 million USD and it can be flexiable if the market need more Hotspots.
+200K USD up-front; we have 200k on-hand
 
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
 
-We have enough cash flow to support this project.
+We have enough cash flow from other bussinesses to support this project.
 
 ## Risks & Challenges (required)
 
-There might be challenges from this product's worldwide shortage of chips and accessories. Seeed has a solid and stable global production and supply chain to reduce the possible risks, and we have a sophisticated plan for future delivery of products to overcome the problems and difficulties listed above.
+The crypto market is going downturn and the client demands may fluctuate 
 
 Who will develop the Hotspot onboarding and management app? Will it be an internal team or external company?
 
-SenseCAP MX Team has developed the Hotspot onboarding and management app and launch in April 2022 as SenseCAP Hotspot App.
+Ingenious Technology development team has developed the Hotspot onboarding and management app and launch in July 2022 as G1 Hotspot App.
 
 ## Payment methods available (required):
 
@@ -222,9 +222,13 @@ Wire transfer
 
 <b>If you do not provide contact information and/or if the company website does not work, we will not review your proposal and the HIP19 application will be automatically denied.</b>
 
-* Contact Email (a company email is required) - support@sensecapmx.com
-* Company Website (required) - https://www.sensecapmx.com/
-* Hotspot Sales Website - https://www.sensecapmx.com/
-* Twitter - https://twitter.com/sensecapmx
-* Discord - https://discord.com/invite/SENSECAP
-* Other social profiles / websites - https://www.seeedstudio.com/
+* Contact info (* required)
+Jing Zeng
++19258582818
+jing@ingenioussafety.com
+* Twitter profile - https://twitter.com/OspreyElectron
+* Facebook profile -
+* Other social profiles -
+- Discord channel: Osprey Electronics https://discord.gg/dyJf8DD
+* Website - www.ospreyelectronics.io
+
