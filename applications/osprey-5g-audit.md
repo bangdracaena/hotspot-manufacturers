@@ -124,11 +124,11 @@ Yes
 
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 
-<img src="https://files.seeedstudio.com/products/osprey/osprey.jpg" width="50%">
+![Screenshot](osprey_5g.jpg)
 
 Osprey Electronics 5G Hotspot G1
 
-SenseCAP M3 is a Helium 5G gateway. It works with Small Cell to provide users with LTE or 5G coverage. It integrates a WM1302 LoRaWAN module and a dedicated TPM2.0 module, which enable the gateway to do PoC activities and mine IOT and MOBILE tokens at the same time.
+Osprey Electronics 5G Hotspot G1 is a Helium 5G gateway. It works with Small Cell to provide users with LTE or 5G coverage. It integrates a SX1302 LoRaWAN module and a dedicated ECC608 module, which enable the gateway to do PoC activities and mine HNT and MOBILE tokens at the same time. 
 
 * What are your plans for software setup and configuration for the devices?
 
@@ -136,15 +136,15 @@ SenseCAP MX Team has developed the SenseCAP Hotspot App which was launched in Ap
 
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
 
-TPM2.0
+ECC608
 
 * Which LoRa chipset are you planning to use in your gateway? (We recommend you don't use the SX1301 in new designs.) 
 
-SX1302/1303 + SX1250
+SX1302
 
 * What is the CPU? 
 
-Intel® Celeron® J4125, Quad-Core 2.0-2.7GHz
+Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
 
 * Additional Hardware Specifications: 
 
