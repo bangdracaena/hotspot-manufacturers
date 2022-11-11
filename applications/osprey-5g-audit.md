@@ -5,9 +5,7 @@ Ingenious Technology is created in 2021 for Block Chain product development, and
 
 ## Company Information (required)
 
-* What is the company name? 
-
-Ingenious Technology LLC
+* What is the company name? Ingenious Technology LLC
 
 * How long has the company been in business? 
  We are in Crypto Mining business since 2018. Ingenious Technology LLC is a special entity for Helium Gateway Business to separate business risk.
@@ -31,12 +29,11 @@ We are impressed by Helium concept and it’s business future.
 
 ## Product Information (required)
 * Will this product be sold under the company name, or a different brand name?
-
-SenseCAP is a product line and brand name of Seeed. SenseCAP M3 will be sold under SenseCAP brand name.
-
+  The product will be sold under the trade mark Osprey Electronics.
+  
 * What is this product's model name? (Hotspot models with different hardware will need a separate HIP19 application.)
 
-SenseCAP M3 5G Hotspot
+Osprey Electronics 5G Hotspot G1
 
 * Is this is a Light Hotspot or a 5G Hotspot? (New applications should be for Light Hotspots or 5G Hotspots)
 
@@ -44,27 +41,32 @@ SenseCAP M3 5G Hotspot
 
 * Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately.)
 
-SenseCAP M3 5G Indoor Hotspot
-SenseCAP M3 5G Outdoor Hotspot
+Osprey Electronics 5G Hotspot G1 is Outdoor Hotspot
 
 * Provide a brief description of the product:
 
-SenseCAP M3 is a Helium 5G Hotstpot with both indoor and outdoor version. SenseCAP M3 5G Hotspot is the latest Hotspot device in the SenseCAP product line contributing to cellular applications. It works with Small Cell to provide users with LTE or 5G coverage. It integrates a WM1302 LoRaWAN module and a dedicated TPM2.0 module, which enable the gateway to do PoC activities and mine IOT and MOBILE tokens at the same time. 
+Osprey Electronics 5G Hotspot G1 is a Helium 5G Hotstpot. It is the latest Hotspot device in the Osprey product line contributing to cellular applications. It works with Small Cell to provide users with LTE or 5G coverage. It integrates a SX1302 LoRaWAN module and a dedicated ECC608 module, which enable the gateway to do PoC activities and mine HNT and MOBILE tokens at the same time. 
 
 * What is your approximate price point? 
 
-$999
+$899
 
 * What is your expected production and delivery timeline? 
 
-Q4 2022
+Q1 2023
 
 
 ## Previous shipments (required)
 
-* Have you shipped anything in the past? 
+* Have you shipped anything in the past? Yes, we have shipped:
 
-Yes, we have shipped 200k+ SenseCAP M1 to the worldwide.
+Crypto Mining Product: ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200)
+
+ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50)
+
+E300 Ethereum Mining product (https://www.ospreyelectronics.io/product-page/e300-180m-eth-hash-rate)
+
+Computer cooling products (https://www.dracaena.io/)
 
 * What types of products have you shipped?
 
