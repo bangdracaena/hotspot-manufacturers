@@ -184,11 +184,11 @@ Globaly.
 
 * How many radio modules/ concentrators can you procure? 
 
-30K per Month
+5K per Month
 
 ## Proof of Identity
 
-Submitted and verified by DeWi.
+We already went through proof of identity when we applied for Helium full hostpot and verified by DeWi.
 
 ## Budget & Capital (required)
 
