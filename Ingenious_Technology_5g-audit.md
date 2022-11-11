@@ -159,7 +159,7 @@ Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
 | Ethernet  | 1* Gigabit Ethernet Port(10/100/1000/M) |
 | Security Chip  | ECC608 |
 | Certification  | FCC |
-| Input Voltage  | DC Jack input 12-19V DC |
+| Input Voltage  | Type C adapter 5V 3A |
 
 
 ## Manufacturing Information (required)
