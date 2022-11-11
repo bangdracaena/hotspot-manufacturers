@@ -21,7 +21,7 @@ Computer cooling products (https://www.dracaena.io/)
 
 * How many have you sold? 
 
-We sold about 1k ECU200, 8k ECU50, and estimate 1k E300 miners. We also sold about 1M dollar computer cooling products.
+We sold about 1k ECU200, 8k ECU50, and estimate 1k E300 miners. We also sold about 1 million dollar computer cooling products.
 
 * What brought you to the Helium Network? 
 
